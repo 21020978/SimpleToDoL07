@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
                         break;
 
                     case 1:
-                        tvAddOrDltTask.setText("Type the index number of task in which you want to remove");
+                        tvAddOrDltTask.setText("Type the index number of task which you want to remove");
                         btnAdd.setEnabled(false);
                         btnDlt.setEnabled(true);
                         break;
